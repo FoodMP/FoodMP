@@ -92,7 +92,7 @@ The failure of us to exercise or enforce any right or provision of these Terms o
 
 **Governing law**
 
-These Terms and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of Romania.
+These Terms and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of The United States Of America.
 
 
 **Changes to terms of service**

@@ -276,6 +276,10 @@ function outFunc() {
   var tooltip = document.getElementById("myTooltip");
   tooltip.innerHTML = "Copy to clipboard";
 }
+        window.oncontextmenu = function () {
+            console.log("Right Click Disabled");
+            return false;
+        }
         
     </script>
 </body>

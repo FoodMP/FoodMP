@@ -234,6 +234,10 @@ img
 {
     background: #111;
 }
+.heading.white
+{
+    color: #fff;
+}
 .formBx
 {
     min-width: 60%;

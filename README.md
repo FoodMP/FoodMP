@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me https://discord.gg/zk9fzwTvpx
 
-**Preview site:** https://FoodMP.github.io/FoodMP/
+**Preview site:** http://FoodMP.ml/

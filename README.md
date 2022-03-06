@@ -1,7 +1,7 @@
 ### Hi there, This is the official github of [FoodMP][website] 👋 
 
 [![Website](https://img.shields.io/website?label=foodmp.ml&style=for-the-badge&url=http%3A%2F%2Ffoodmp.ml)](http://foodmp.ml)
-[![Discord](https://img.shields.io/discord/937109909466652762?label=FoodMP&logo=Discord&logoColor=%235865F2&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/937109909466652762?label=FoodMP&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/zk9fzwTvpx)
 
 ## I'm a connoisseur, Developer, and a Gamer :D
 

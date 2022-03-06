@@ -280,6 +280,18 @@ function outFunc() {
             console.log("Right Click Disabled");
             return false;
         }
+document.addEventListener('keydown', function() {
+  if (event.keyCode == 123) {
+    alert("u not finna get my scource code");
+    return false;
+  } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) {
+    alert("u not finna get my scource code");
+    return false;
+  } else if (event.ctrlKey && event.keyCode == 85) {
+    alert("u not finna get my scource code");
+    return false;
+  }
+}, false);
         
     </script>
 </body>

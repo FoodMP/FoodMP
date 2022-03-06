@@ -18,3 +18,4 @@
 <br />
 
 [website]: http://foodmp.ml
+[discord]: https://discord.gg/zk9fzwTvpx

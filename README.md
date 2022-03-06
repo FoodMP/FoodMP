@@ -1,4 +1,4 @@
-### Hi there, This is the official github of [FoodMP][website] 👋 
+### Hi there, This is the official github of [FoodMP][website2] - aka [food4cheaps][website] 👋 
 
 [![Website](https://img.shields.io/website?label=foodmp.ml&style=for-the-badge&url=http%3A%2F%2Ffoodmp.ml)](http://foodmp.ml)
 [![Discord](https://img.shields.io/discord/937109909466652762?label=FoodMP&logo=Discord&logoColor=%235865F2&style=for-the-badge)](https://discord.gg/zk9fzwTvpx)
@@ -17,5 +17,6 @@
 
 <br />
 
-[website]: http://foodmp.ml
+[website]: http://food4cheaps.ml
 [discord]: https://discord.gg/zk9fzwTvpx
+[website2]: http://foodmp.ml
